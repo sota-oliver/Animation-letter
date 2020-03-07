@@ -14,7 +14,7 @@ function setup() {
   // noStroke();
   // text('train', 100, 200);
 
-  var points = font.textToPoints('KURČUGA', 0, 700, 190, {
+  var points = font.textToPoints('JEBEM TI BOGA', 0, 400, 130, {
     sampleFactor: .12
   });
 
